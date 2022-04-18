@@ -68,8 +68,8 @@ function Home() {
     <div>
       <h1>Home</h1>
       <span>
-        ¡Hola! 
-        Por alguna extraña razón el router no me funcionó bien, tras seleccionar un ejercicio, hay que refrescar para poder verlo :(
+        ¡Hola!
+        Bienvenido al proyecto
       </span>
     </div>
   );
